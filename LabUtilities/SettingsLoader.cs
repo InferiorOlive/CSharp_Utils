@@ -6,7 +6,7 @@ using System.Reflection;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace LivePersonNet.Utilities
+namespace LabUtilities
 {
     /// <summary>
     /// Provides a generic way to load settings from JSON files and environment variables.

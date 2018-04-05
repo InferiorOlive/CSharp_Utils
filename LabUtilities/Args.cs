@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LivePersonNet.Utilities
+namespace LabUtilities
 {
     public static class Args
     {

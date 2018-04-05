@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
 
-namespace LivePersonNet.Utilities
+namespace LabUtilities
 {
     /// <summary>
     /// Lets us use paths to properties in JsonProperty attributes.
