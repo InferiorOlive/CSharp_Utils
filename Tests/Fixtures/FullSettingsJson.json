@@ -1,0 +1,6 @@
+﻿{
+    "SomeApiKey": "this-is-an-api-key",
+    "SomethingElse": "something-else",
+    "ThisIsAnInt": 230,
+    "FieldShouldBeSet":  "sure are!" 
+}
