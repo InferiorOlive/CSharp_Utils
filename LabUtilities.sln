@@ -22,5 +22,6 @@ Global
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		description = A collection of utilities for dealing with JSON, settings, and more.
+		version = 0.2
 	EndGlobalSection
 EndGlobal

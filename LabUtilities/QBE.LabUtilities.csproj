@@ -2,18 +2,23 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>Alexa Drake, Jon Mason, Michael Isaacson</Authors>
     <Description>A handy collection of utilties for working with JSON, settings, and more.</Description>
-    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <IconUrl>http://qbena.com/img/logo.png</IconUrl>
     <PackageProjectUrl>https://github.com/InferiorOlive/CSharp_Utils</PackageProjectUrl>
     <RepositoryUrl>https://github.com/InferiorOlive/CSharp_Utils</RepositoryUrl>
     <PackageLicenseUrl>https://github.com/InferiorOlive/CSharp_Utils/blob/master/LICENSE</PackageLicenseUrl>
     <Copyright>2018</Copyright>
     <PackageTags>JSON utilities</PackageTags>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <ReleaseVersion>0.2</ReleaseVersion>
+    <PackOnBuild>true</PackOnBuild>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType></DebugType>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.0.1" />
