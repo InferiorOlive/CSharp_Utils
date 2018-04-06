@@ -9,7 +9,7 @@
     <PackageProjectUrl>https://github.com/InferiorOlive/CSharp_Utils</PackageProjectUrl>
     <RepositoryUrl>https://github.com/InferiorOlive/CSharp_Utils</RepositoryUrl>
     <PackageLicenseUrl>https://github.com/InferiorOlive/CSharp_Utils/blob/master/LICENSE</PackageLicenseUrl>
-    <Copyright>2018</Copyright>
+    <Copyright>QBE Group Services Pty Ltd</Copyright>
     <PackageTags>JSON utilities</PackageTags>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
     <ReleaseVersion>0.2</ReleaseVersion>
