@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Alexa Drake, Jon Mason, Michael Isaacson</Authors>
+    <Description>A handy collection of utilties for working with JSON, settings, and more.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/InferiorOlive/CSharp_Utils</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/InferiorOlive/CSharp_Utils</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/InferiorOlive/CSharp_Utils/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>2018</Copyright>
+    <PackageTags>JSON utilities</PackageTags>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.0.1" />
+  </ItemGroup>
+</Project>

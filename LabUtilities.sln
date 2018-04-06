@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabUtilities", "LabUtilities\LabUtilities.csproj", "{469B80A4-9B01-4CB1-87ED-2C6D3977E0EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QBE.LabUtilities", "LabUtilities\QBE.LabUtilities.csproj", "{469B80A4-9B01-4CB1-87ED-2C6D3977E0EC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7C5265DE-3EB1-4A39-A6DF-B230DD80E5EE}"
 EndProject
@@ -19,5 +19,8 @@ Global
 		{7C5265DE-3EB1-4A39-A6DF-B230DD80E5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C5265DE-3EB1-4A39-A6DF-B230DD80E5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C5265DE-3EB1-4A39-A6DF-B230DD80E5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		description = A collection of utilities for dealing with JSON, settings, and more.
 	EndGlobalSection
 EndGlobal
