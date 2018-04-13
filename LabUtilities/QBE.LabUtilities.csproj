@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageVersion>1.0.3</PackageVersion>
+    <PackageVersion>1.0.4</PackageVersion>
     <Authors>Alexa Drake, Jon Mason, Michael Isaacson</Authors>
     <Description>A handy collection of utilties for working with JSON, settings, and more.</Description>
     <IconUrl>http://qbena.com/img/logo.png</IconUrl>
