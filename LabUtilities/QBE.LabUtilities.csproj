@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
-    <PackageVersion>1.0.1</PackageVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageVersion>1.0.3</PackageVersion>
     <Authors>Alexa Drake, Jon Mason, Michael Isaacson</Authors>
     <Description>A handy collection of utilties for working with JSON, settings, and more.</Description>
     <IconUrl>http://qbena.com/img/logo.png</IconUrl>
@@ -12,7 +12,7 @@
     <Copyright>QBE Group Services Pty Ltd</Copyright>
     <PackageTags>JSON utilities</PackageTags>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
-    <ReleaseVersion>0.2</ReleaseVersion>
+    <ReleaseVersion>0.3</ReleaseVersion>
     <PackOnBuild>true</PackOnBuild>
   </PropertyGroup>
 

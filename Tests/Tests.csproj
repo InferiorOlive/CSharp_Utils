@@ -19,12 +19,11 @@
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\LabUtilities\LabUtilities.csproj" />
-  </ItemGroup>
-  
-  <ItemGroup>
     <None Update="Fixtures\FullSettingsJson.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LabUtilities\QBE.LabUtilities.csproj" />
   </ItemGroup>
 </Project>

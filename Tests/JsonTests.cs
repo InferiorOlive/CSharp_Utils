@@ -1,6 +1,6 @@
 ﻿using System;
-using LabUtilities;
 using NUnit.Framework;
+using LabUtilities;
 using Tests.Helpers;
 
 namespace Tests.LabUtilities

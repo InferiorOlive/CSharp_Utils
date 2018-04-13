@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
-using LabUtilities;
 using Newtonsoft.Json;
 using NUnit.Framework;
+using LabUtilities;
 using Tests.Helpers;
 
 namespace Tests.LabUtilities
